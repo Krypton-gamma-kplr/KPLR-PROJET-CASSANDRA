@@ -1,0 +1,36 @@
+[H[2J[3J 
+    _____            __ 
+   /  _  \   _______/  |_____________ 
+  /  /_\  \ /  ___/\   __\_  __ \__  \ 
+ /    |    \___ \  |  |  |  | \// __ \_ 
+ \____|__  /____  > |__|  |__|  (____  / 
+         \/     \/                   \/ 
+ 
+Installing Astra Cli[36m 0.3 [37m please wait...      
+
+[36mChecking prerequisites:[37m
+[32m[OK][37m - Ready to install.
+[32m[OK][37m - unzip command is available
+[32m[OK][37m - curl command is available
+
+[36mPreparing directories:[37m
+[32m[OK][37m - Created /home/gitpod/.astra/tmp
+[32m[OK][37m - Created /home/gitpod/.astra/cli
+[32m[OK][37m - Created /home/gitpod/.astra/scb
+
+[36mDownloading archive:[37m
+[32m[OK][37m - File downloaded
+[32m[OK][37m - Integrity of the archive checked
+
+[36mExtracting and installation:[37m
+[32m[OK][37m - Extraction is successful
+[32m[OK][37m - File moved to /home/gitpod/.astra/cli
+[32m[OK][37m - Installation cleaned up
+[32m[OK][37m - astra added to /home/gitpod/.bashrc
+[32m[OK][37m - astra added to /home/gitpod/.zshrc
+[32m[OK][37m - Installation Successful
+
+Open [32mA NEW TERMINAL[37m and run: [33mastra setup[37m
+
+You can close this window.(B[m
+[!p[?3;4l[4l>[?69l
